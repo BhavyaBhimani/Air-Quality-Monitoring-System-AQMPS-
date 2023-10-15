@@ -1,0 +1,134 @@
+/* backgrounds images */
+.db-g {
+    /* background-color: #39bd7f; */
+    background-image: url(img/db-gov.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+  }
+.header-bg {
+    background-color: #a2de96;
+}
+.home-p {
+    background-color: #effcef;
+    opacity: 0.9;
+}
+
+
+.p-font {
+    font-weight: 400;
+}
+
+.f-inc {
+    font-size: 1.1rem;
+}
+
+.l-bg {
+    background-color: #94d3ac5d;
+}
+.login-bg {
+    background-color: #7e7e7ece;
+}
+.login-feild {
+    color: #252525;
+}
+
+.lc-g {
+    background-image: url(img/approval-g.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.white-txt {
+    color: #ffffff;
+}
+.orange-txt {
+    color: #ff884b;
+}
+.n-font {
+    font-weight: 500;
+}
+/* color status */
+.light-orange {
+    background-color: #ffc764;
+}
+
+.d-orange {
+    background-color: #ff884b;
+}
+
+.pending {
+    background-color: rgb(255, 255, 125);
+}
+
+.approved {
+    background-color: rgb(115, 225, 115);
+}
+
+.rejected {
+    background-color: rgb(236, 88, 88);
+}
+
+.expired {
+    background-color: rgb(78, 124, 252);
+}
+
+.nav-font {
+    font-size: 1.2rem;
+}
+
+/* Specific Industry */
+.specific-bg {
+  background-color: rgba(124, 162, 187, 0.796);
+}
+/* About page */
+.info-header {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px rgb(107, 175, 221) solid;
+  }
+
+#author img {
+margin: -40px;
+border: 3px #3293a6 solid;
+}
+#author .c {
+color: #707070;
+}
+#author .card:hover {
+background: #3293a6;
+color: #fff;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+
+/* buttons */
+.btn-font {
+    font-size: 1.2rem;
+}
+/* Footer */
+.f {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.f-1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+
+    text-align: center;
+ }
+
+ /* payment successful */
+.c {
+    margin-top: 130px;
+    
+}
